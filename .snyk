@@ -1,0 +1,35 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.19.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - bcoin > socket.io > debug:
+        patched: '2020-10-09T20:37:35.679Z'
+    - bcoin > socket.io-client > socket.io-parser > debug:
+        patched: '2020-10-09T20:37:35.679Z'
+    - bcoin > socket.io > socket.io-parser > debug:
+        patched: '2020-10-09T20:37:35.679Z'
+    - bcoin > socket.io > socket.io-client > socket.io-parser > debug:
+        patched: '2020-10-09T20:37:35.679Z'
+    - bcoin > socket.io-client > debug:
+        patched: '2020-10-09T20:37:35.679Z'
+    - bcoin > socket.io > socket.io-client > debug:
+        patched: '2020-10-09T20:37:35.679Z'
+    - socket.io > socket.io-adapter > socket.io-parser > debug:
+        patched: '2020-10-09T20:37:35.679Z'
+    - express > finalhandler > debug:
+        patched: '2020-10-09T20:37:35.679Z'
+  'npm:extend:20180424':
+    - liftoff > extend:
+        patched: '2020-10-09T20:37:35.679Z'
+  SNYK-JS-LODASH-567746:
+    - async > lodash:
+        patched: '2020-10-09T20:37:35.679Z'
+  'npm:ms:20170412':
+    - bcoin > socket.io-client > debug > ms:
+        patched: '2020-10-09T20:37:35.679Z'
+    - bcoin > socket.io > socket.io-client > debug > ms:
+        patched: '2020-10-09T20:37:35.679Z'
+    - socket.io > socket.io-adapter > socket.io-parser > debug > ms:
+        patched: '2020-10-09T20:37:35.679Z'
