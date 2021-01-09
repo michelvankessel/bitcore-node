@@ -49,8 +49,8 @@
     "memwatch-next": "^0.3.0",
     "mkdirp": "0.5.2",
     "path-is-absolute": "^1.0.0",
-    "socket.io": "^2.0.2",
-    "socket.io-client": "^2.0.2",
+    "socket.io": "^3.0.0",
+    "socket.io-client": "^3.0.0",
     "xxhash": "^0.2.4",
     "snyk": "^1.413.2"
   },
