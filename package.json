@@ -52,7 +52,7 @@
     "socket.io": "^1.4.5",
     "socket.io-client": "^1.4.5",
     "xxhash": "^0.2.4",
-    "snyk": "^1.413.2"
+    "snyk": "^1.465.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
