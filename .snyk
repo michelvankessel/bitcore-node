@@ -20,6 +20,20 @@ patch:
         patched: '2020-10-09T20:37:35.679Z'
     - express > finalhandler > debug:
         patched: '2020-10-09T20:37:35.679Z'
+    - liftoff > findup-sync > micromatch > snapdragon > debug:
+        patched: '2020-10-09T20:38:46.020Z'
+    - snyk > proxy-agent > pac-proxy-agent > get-uri > debug:
+        patched: '2020-10-09T20:38:46.020Z'
+    - liftoff > findup-sync > micromatch > braces > snapdragon > debug:
+        patched: '2020-10-09T20:38:46.020Z'
+    - liftoff > findup-sync > micromatch > extglob > snapdragon > debug:
+        patched: '2020-10-09T20:38:46.020Z'
+    - liftoff > findup-sync > micromatch > nanomatch > snapdragon > debug:
+        patched: '2020-10-09T20:38:46.020Z'
+    - liftoff > findup-sync > micromatch > extglob > expand-brackets > debug:
+        patched: '2020-10-09T20:38:46.020Z'
+    - liftoff > findup-sync > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2020-10-09T20:38:46.020Z'
   'npm:extend:20180424':
     - liftoff > extend:
         patched: '2020-10-09T20:37:35.679Z'
